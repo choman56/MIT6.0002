@@ -3,6 +3,7 @@
 # Name: Clarke Homan
 # Collaborators (discussion):
 # Starting Date: December 18, 2020
+# Ending Date: January 18, 2021
 
 import math
 import random
